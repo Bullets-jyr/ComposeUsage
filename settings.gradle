@@ -16,3 +16,4 @@ rootProject.name = "ComposeUsage"
 include ':app'
 include ':constraintlayout'
 include ':constraintlayoutconstraintset'
+include ':constraintlayoutchainbarrier'

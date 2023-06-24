@@ -22,6 +22,7 @@
             <option value="$PROJECT_DIR$/customdialog" />
             <option value="$PROJECT_DIR$/dialog" />
             <option value="$PROJECT_DIR$/dropdownmenu" />
+            <option value="$PROJECT_DIR$/effect" />
             <option value="$PROJECT_DIR$/snackbar" />
             <option value="$PROJECT_DIR$/statestatehoisting" />
           </set>

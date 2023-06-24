@@ -19,6 +19,7 @@
             <option value="$PROJECT_DIR$/customdialog" />
             <option value="$PROJECT_DIR$/dialog" />
             <option value="$PROJECT_DIR$/dropdownmenu" />
+            <option value="$PROJECT_DIR$/snackbar" />
           </set>
         </option>
       </GradleProjectSettings>

@@ -21,6 +21,7 @@
             <option value="$PROJECT_DIR$/dialog" />
             <option value="$PROJECT_DIR$/dropdownmenu" />
             <option value="$PROJECT_DIR$/snackbar" />
+            <option value="$PROJECT_DIR$/statestatehoisting" />
           </set>
         </option>
       </GradleProjectSettings>

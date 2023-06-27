@@ -25,6 +25,7 @@
             <option value="$PROJECT_DIR$/effect" />
             <option value="$PROJECT_DIR$/snackbar" />
             <option value="$PROJECT_DIR$/statestatehoisting" />
+            <option value="$PROJECT_DIR$/todo" />
           </set>
         </option>
       </GradleProjectSettings>
